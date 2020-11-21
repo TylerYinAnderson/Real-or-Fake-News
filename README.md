@@ -1,2 +1,3 @@
 # Real-or-Fake-News
  
+I will be examining two datasets that have news that was determined to be false and news that was determined to be true. One dataset will have all false news and the other having all true news. I want to analyze this dataset to try and see if I can predict the accuracy of a news being true or false based on the datasets provided. I hope to gain some insights on what makes some news false and others true and see if the discrepancy of true or false is a fine line between them. I also want to see if the dataset is biased as many of the datapoints in the datasets come from twitter and fake or real news to some may be subjective. 
